@@ -1,4 +1,5 @@
 # routers
+[![Latest Stable Version](https://poser.pugx.org/carlosocarvalho/router/v/stable)](https://packagist.org/packages/carlosocarvalho/router) [![Total Downloads](https://poser.pugx.org/carlosocarvalho/router/downloads)](https://packagist.org/packages/carlosocarvalho/router) [![Latest Unstable Version](https://poser.pugx.org/carlosocarvalho/router/v/unstable)](https://packagist.org/packages/carlosocarvalho/router) [![License](https://poser.pugx.org/carlosocarvalho/router/license)](https://packagist.org/packages/carlosocarvalho/router)
 ## Simple Routers PHP 
 
 >Examples
