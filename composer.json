@@ -1,6 +1,7 @@
 {
     "name": "carlosocarvalho/router",
     "description": "PHP router",
+    "version":"1.0.0",
     "authors": [
         {
             "name": "Carlos Carvalho",
