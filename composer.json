@@ -2,6 +2,7 @@
     "name": "carlosocarvalho/router",
     "description": "PHP router",
     "version":"1.0.0",
+    "license":"GPL",
     "authors": [
         {
             "name": "Carlos Carvalho",
